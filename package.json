@@ -8,6 +8,9 @@
     "name": "Croquet Corporation",
     "email": "admin@croquet.io"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
       "quad-indices": "^2.0.1",
       "three-buffer-vertex-data": "^1.0.0"
